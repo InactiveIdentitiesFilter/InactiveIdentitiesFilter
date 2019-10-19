@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 19, 2017, 8:35:52 PM
+    Author     : anonymous1
+*/
+
+#id_users, #id_courses {
+    font-family: "Courier New", Courier, monospace;
+    color: red; 
+    background-color: yellow;
+    width: 450px;
+    height: 250px;
+    /* Bootstrap danger colors */
+    color: #b94a48;
+    background-color: #f2dede;
+    border-color: #eed3d7;
+    /*  ****  */
+    overflow-x:scroll ; 
+    overflow-y: scroll;    
+}
+
+#id_timelimit_timeunit{
+    width: 375px;
+}
